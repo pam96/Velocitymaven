@@ -1,0 +1,57 @@
+git:
+
+It is a version control tool for tracking changes in source code during software developement.
+
+git commands:
+
+git init: to onitialize a git
+
+git add .: to add a file into local repository
+
+git add filename.text---> To add a file into respective branch.
+
+git status: to check status of a git
+
+git commit -m "add file successfully"
+
+git clone -b Branch_Sameer "URL"--> To clone a particular branch
+
+git pull origin Sprint---> to take a fresh pull from branch
+
+git push---> to push a code into repos.
+
+git pull--->to take a file or code from repos.
+
+
+
+git checkout branch_name---> navigate to target branch.
+
+git merge new_branch---> merge this branch into target branch.
+
+git branch---> List all branch present in our repos.
+
+git branch Branch_Pankaj---> to create a new branch.
+
+git branch -d Branch_Pramod----> To delete a particular branch.
+
+git branch -D Branch_Pramod----> forcefully delete a branch.
+
+
+
+git push origin master---> to push a code from local repos to centralized repo(HitHub)
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+                                                  
+  
